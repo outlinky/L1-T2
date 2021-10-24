@@ -1,0 +1,5 @@
+tmp/
+*_old
+*_backup
+Thubms.db
+.DS_Store
